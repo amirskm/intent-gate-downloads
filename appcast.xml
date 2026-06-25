@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Intent Gate</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 25 Jun 2026 08:57:16 -0700</pubDate>
+            <sparkle:version>134</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/amirskm/intent-gate-downloads/main/Intent-Gate-0.1.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/amirskm/intent-gate-downloads/releases/download/v0.1.1-beta/Intent-Gate-0.1.1.dmg" length="2312985" type="application/octet-stream" sparkle:edSignature="mmnQ7iFxd4Gcj0NhUNNHJCjVsSLpx4Lw9Dp69Gl9c8R/hhZtH7V0KNQJ5eGZaBpfXOKnTuLwlWyGiL6Tkf61Aw=="/>
+        </item>
+    </channel>
+</rss>
